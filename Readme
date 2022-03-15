@@ -1,0 +1,6 @@
+# eureka-cluster
+eureka cluster with authentication 
+
+## run project with maven
+for each instance use this command 
+mvn spring-boot:run -Dspring-boot.run.profiles= profilename
